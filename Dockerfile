@@ -1,6 +1,6 @@
 FROM debian:10
 
-LABEL MAINTAINER: Maxi
+LABEL MAINTAINER: <Maxi>
 
 RUN     set -uex ; \
         apt update ; \
